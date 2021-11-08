@@ -5,9 +5,6 @@
 
 
 ## 📃 Latest Articles
-
-<img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
-
 <!-- BLOG-POST-LIST:START -->
 - [Panduan Praktis Penggunaan Pandas - Bagian 1](https://hub.idbigdata.com/sigit-prasetyo/panduan-praktis-penggunaan-pandas-bagian-1-39)
 - [Panduan Praktis Penggunaan Pandas - Bagian 2](https://hub.idbigdata.com/sigit-prasetyo/panduan-praktis-penggunaan-pandas-bagian-2-40)
