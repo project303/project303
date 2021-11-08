@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/project303/project303/master/Project303.png "Header")](https://instagram.com/sigit.ig)
 
 
-# Hai.., folks! Welcome to my Github Profile ![](https://komarev.com/ghpvc/?username=project303&label=PROFILE+VISITS)
+# Welcome to my Github Profile ![](https://komarev.com/ghpvc/?username=project303&label=PROFILE+VISITS)
 ### Hi there 👋
 
 <!--
