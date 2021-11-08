@@ -4,7 +4,7 @@
 # Welcome to my Github Profile ![](https://komarev.com/ghpvc/?username=project303&label=PROFILE+VISITS)
 
 
-## 📃 Latest Articles
+## Latest Articles
 <!-- BLOG-POST-LIST:START -->
 - [Panduan Praktis Penggunaan Pandas - Bagian 1](https://hub.idbigdata.com/sigit-prasetyo/panduan-praktis-penggunaan-pandas-bagian-1-39)
 - [Panduan Praktis Penggunaan Pandas - Bagian 2](https://hub.idbigdata.com/sigit-prasetyo/panduan-praktis-penggunaan-pandas-bagian-2-40)
